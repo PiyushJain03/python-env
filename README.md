@@ -1,5 +1,4 @@
 # A simple Python app
-# hello
 
 ## Local development
 
