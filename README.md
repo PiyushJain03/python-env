@@ -1,5 +1,5 @@
 # A simple Python app
-# Add comment
+
 ## Local development
 
     pip install -r requirements.txt
