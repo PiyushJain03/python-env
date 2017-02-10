@@ -1,5 +1,6 @@
 applications:
 - name: python-env
-  buildpack: https://github.com/cloudfoundry/python-buildpack
+  host: python-env
+  domain: hcf.helionit.io
   memory: 32M
   stack: cflinuxfs2
